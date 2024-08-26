@@ -1,0 +1,19 @@
+    .pis{
+        background-color:#f54b48;
+        font-family: 'Verdana', 'DejaVu Sans','sans-s   erif' ;
+    }
+
+    #id1{
+        color: rgb(0, 0, 255);
+        font-size: 36px;
+    }
+
+    #id2{
+        font-size: 24px;
+    }
+
+    #id3{
+        background-color: hsl(from green 100 70 70);
+        font-size: 24px;
+        
+    }
